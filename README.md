@@ -1,1 +1,1 @@
-# wordpress-xtempl
+# wordpress-shortcodes-xtempl
